@@ -3,8 +3,8 @@
 ### I'm a Developer!
 
 - I’m currently working on a Community Management System!
-- I’m currently learning Vue.js, Quasar, Feathers.js, & PostgreSQL
-- 2021 Goals: Complete and release a SaaS, Contribute to more Open Source Projects and to enhance my TS skills.
+- I’m currently learning Vue.js, Quasar, TypeScript, PostgreSQL, & CockroachDB
+- 2022 Goals: Complete and release a SaaS, Contribute to more Open Source Projects and to enhance my TS skills.
 
 ### Spotify Playing 🎧
 [<img src="https://githup-profile-spotify-ic4plvz31.vercel.app/api/spotify" alt="Dawson Godin Spotify Playing" width="350" />](https://open.spotify.com/user/xgodify)
